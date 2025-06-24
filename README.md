@@ -55,3 +55,10 @@ Each README provides detailed prerequisites, installation steps, and usage instr
 
 ## License
 This project is for academic and demonstration purposes only. 
+
+---
+
+## Contributors
+- **Animesh Mahata** ([GitHub](https://github.com/madtitan-op)): Backend development (Spring Boot REST API, database, authentication, and server-side logic)
+- **Surjya Chakrabortty** ([GitHub](https://github.com/surjya2004)): User interfaces (React Web UI and Python/Tkinter client application)
+- **Priyanshu Kumar** ([GitHub](https://github.com/priyanshukumar64282)): Face recognition module (Python client face detection and recognition logic) 
